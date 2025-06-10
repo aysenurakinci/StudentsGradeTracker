@@ -44,4 +44,4 @@ This project demonstrates the practical use of:
 - Basic input/output logic
 - Conditionals and error handling in Python
 
-You can run this project on **any machine** with Python 3 installed — no external libraries are required.
+You can run this project on **any machine** with Python 3 installed .
